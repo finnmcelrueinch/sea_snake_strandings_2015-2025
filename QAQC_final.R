@@ -24,9 +24,9 @@ master_data <- read_excel("master_data.xlsx")
 View(master_data)
 
 
-#####################
-# Quality Assurance #
-#####################
+###############################
+# Quality Assurance & Control #
+###############################
 
 #Combine dates so date_found > date_posted. Date_posted only used if date_found NA
 
